@@ -12,4 +12,3 @@ for i in user_str.split():
 
 for i in range(len(operation_list)):
     print(i + 1, operation_list[i][0:10])
-яс
